@@ -24,7 +24,7 @@ This project was inspired by [rabidlogic/StreamDeckMastodon](https://github.com/
 
 ## Install
 
-This plugin requires Stream Deck software version 6.5 or later on macOS 10.15+ or Windows 10+.
+This plugin requires Stream Deck software version 6.5 or later on macOS 10.15+ or Windows 10+ (only tested on macOS though)
 
 ### From Release
 
@@ -40,7 +40,7 @@ cd StreamDeckMastodon
 just dev
 ```
 
-Requires [Just](https://github.com/casey/just) command runner and the streamdeck CLI command.
+Requires [Just](https://github.com/casey/just) command runner and the `streamdeck` CLI command.
 
 ## Usage
 
